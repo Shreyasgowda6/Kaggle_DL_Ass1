@@ -184,8 +184,6 @@ sample_submission.csv
 
 3. Run all notebook cells from top to bottom.
 
-4. Upload the generated `submission.csv` file to Kaggle.
-
 ## Requirements
 
 The notebook uses:
